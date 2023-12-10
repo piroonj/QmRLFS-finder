@@ -2,5 +2,7 @@
 QmRLFS (Quantitative Models of RLFS) models to predict RLFSs
 
 ### Description
-Click here 
-http://rloop.bii.a-star.edu.sg/?pg=qmrlfs
+Click here http://r-loop.org/?pg=qmrlfs
+
+### R-loop DB
+http://r-loop.org
